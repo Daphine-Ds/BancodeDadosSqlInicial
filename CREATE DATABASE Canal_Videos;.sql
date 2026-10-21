@@ -1,0 +1,3 @@
+CREATE DATABASE Canal_Videos;
+GO
+
